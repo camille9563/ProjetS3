@@ -1,2 +1,4 @@
-# ProjetS3
-Projet du S3 , PHP, framework Symfony 3+
+Symfony
+=======
+
+A Symfony project created on October 20, 2016, 6:25 pm.
