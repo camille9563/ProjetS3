@@ -1,1 +1,15 @@
-Readme
+Symfony
+=======
+
+A Symfony project created on October 20, 2016, 6:25 pm.
+
+=======
+
+- Télécharger php.phar et placer dans C:\wamp64\www
+
+- Ouvrir une commande de windows ici et taper : 
+  php symfony.phar new Symfony
+  
+  créera un nouveau projet dans le répertoire nommé "Symfony" (automatiquement créé)
+
+- Si problème, télécharger le fichier cacert.perm et remplacer par le cacert.perm originel dans C:\wamp64
